@@ -1,0 +1,36 @@
+Summary
+			
+			1) Declare a struct to hold data in a record
+			
+			2) Initialize counter variables
+				- for use in assigning scores to students
+			
+			3) Open a file for reading
+				- records.txt
+			
+			4) Declare a pointer to an array
+				- initialize it using random function
+			
+			5) Create a vector object
+			
+			6) Populate the vector using the read file
+				- using push_back() template function
+				- using applyScores function to assign
+			
+			7) Display the vector using a for loop
+				- use set precision to give accurate double
+				- nested for loop to display scores
+			
+			8) Declare a pointer to an array
+				- initialize it using random id function
+			
+			9) Use random Ids to search the vector.
+				- using binarySearch member function
+				- called recursively
+			
+			10) Search at the end of the vector and display
+			
+			11) Search for an ID that is not in the record
+				- function returns -1 if it cannot find
+				- if -1 is returned, display proper output
+			
