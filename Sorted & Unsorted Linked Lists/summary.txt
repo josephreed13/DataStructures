@@ -1,0 +1,27 @@
+Summary
+
+		1) Create a linked list object
+		
+		2) Populate unsorted linked list
+			- using member function appendNode 
+		
+		3) Display linked list
+			- using member function displayList
+		
+		4) Create another linked list object
+		
+		5) Populate it with the same data
+			- using member function appendNode
+		
+		6) Display sorted second linked list
+			- using member function displayList
+		
+		7) Delete 8th record in linked list
+			- using member function deleteNode
+		
+		8) Delete 11th record in linked list
+			- using member function deleteNode
+		
+		9) Display the new linked list after deleting
+			- using member function displayList
+			 
