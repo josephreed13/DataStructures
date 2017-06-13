@@ -1,8 +1,4 @@
-Joseph Reed
-Assignment 1 Summary
-
-
-	My program runs as follows:
+Summary
 
 	1) Declare a structure to hold student record data
 	
