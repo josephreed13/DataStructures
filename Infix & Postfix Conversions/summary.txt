@@ -1,0 +1,13 @@
+Summary
+			
+			1) Create a string holding an infix expression
+			
+			2) Display the infix expression
+				- using the displayInfix function
+			
+			3) Convert infix expression to postfix
+				- using convert member function
+			
+			4) Display the postfix result
+			
+			5) repeat this process for 10 expressions
