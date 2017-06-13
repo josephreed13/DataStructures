@@ -1,0 +1,32 @@
+Summary
+		
+		1) Declare a structure to hold data in a record
+		
+		2) Declare an array of structures to hold data sets
+		
+		3) Populate the array with unsorted ids
+		
+		4) Populate the array with names and grades
+			- from records.txt
+		
+		5) Manually populate the array with addresses
+		
+		6) Display the array using a for loop
+		
+		7) Create a stack object with size 15
+		
+		8) Populate stack with data from array
+			- using push member function
+		
+		9) Declare variable to catch data popped off stack
+		
+		10) Pop 5 records off of the stack and display them
+			-using member function pop
+		
+		11) Pop the remaining records to display them
+			- using member function pop
+		
+		12) Use a do-while loop to display:
+			- everything popped of off stack
+			- while the stack is not empty
+		
