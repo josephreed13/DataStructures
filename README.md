@@ -1,2 +1,2 @@
 # Linked List Practice
-#Joseph Reed
+Joseph Reed, 2017
