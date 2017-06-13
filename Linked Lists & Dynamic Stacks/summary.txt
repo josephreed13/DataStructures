@@ -1,0 +1,24 @@
+Summary
+
+			1) Create a linked list object
+			
+			2) Populate linked list with unsorted data
+				-using member function appendNode
+			
+			3) Display the data in the linked list
+				-using member function displayList
+			
+			4) Declare variables to catch data popped 
+			
+			5) Create a stack object
+			
+			6) Use for loop to populate stack
+				- using getRecord member function
+				- using push member functino
+			
+			7) Declare more catch variables
+			
+			8) Pop 5 records from stack and display them
+				- using pop member function
+			
+			9) Pop the rest of the stack and display data
