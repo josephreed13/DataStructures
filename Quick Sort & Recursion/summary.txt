@@ -1,0 +1,22 @@
+Summary
+			
+			1) Declare structure to hold data in records
+			
+			2) Open a datafile for reading purposes
+			
+			3) Get 200 random test scores
+				- using random scores function
+			
+			4) Create a vector object
+			
+			5) Populate the vector with data from file
+				- records.txt
+			
+			6) Display the unsorted vector
+			
+			7) Use the quickSort function to sort vector
+				- uses recursion
+			
+			8) Display the sorted Vector
+			
+			9) Deallocate memory used by random scores
