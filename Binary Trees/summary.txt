@@ -1,0 +1,35 @@
+Summary
+
+			1) Declare a structure to hold data in records
+
+			2) Call procedures function with parameter
+				- parameters indicate which file to use
+				- each file a different data set
+
+			3) Execute procedures
+				- Open data file to read
+					- friends or actors
+				
+				- Generate 200 random test scores
+				
+				- Create a vector object
+				
+				- Populate vector with data from file
+				
+				- Display the vector
+				
+				- Create a binary tree object
+				
+				- populate the tree with data from vector
+					- using insertNode function
+				
+				- Display the sorted tree
+					- using displayInOrder function
+				
+				- Search for records based on ID
+					- using searchNode function
+				
+				- Delete 2 records from tree
+					- using remove function
+				
+				- display the tree without removed records

@@ -1,0 +1,80 @@
+1424
+Harley Quinn
+512 Gotham Rd
+3.0
+1234
+Matt Damon
+345 Bourne Ave
+3.4
+5133
+Ben Stiller
+678 Globogym Blvd
+4.0
+9987
+Brad Pitt
+1441 FightClub Rd
+2.1
+5252
+Angelina Jolie
+1443 Wanted Road
+1.2
+1010
+Benedict Cumberbatch
+4444 Strange Place
+3.9
+2345
+Will Ferrell
+7890 Elf Ave
+4.0
+3223
+Tom Hardy
+1800 Baine Blvd
+3.2
+1243
+Megan Fox
+9021 Transform Road
+3.3
+9988
+Shia LeBoufe
+533 Eagle Eye
+2.5
+3398
+Steve Carrel
+655 Office Street
+4.0
+1111
+Leonardo DiCaprio
+2453 Inception Ave
+2.2
+9087
+Jennifer Lawrence
+444 Hunger Road
+1.0
+6646
+Anne Hathaway
+90210 Princess Road
+2.1
+7898
+Jennifer Aniston
+123 Friends Way
+3.2
+2002
+Scarlett Johansson
+812 Lucy Road
+2.2
+1000
+Amy Adams
+1309 Steel Blvd
+3.5
+3099
+Cameron Diaz
+1010 Knight Ave
+4.0
+9999
+Tom Cruise
+3203 Day Street
+1.0
+4651
+Emma Watson
+4142 Potter Drive
+3.0

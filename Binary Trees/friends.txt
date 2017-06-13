@@ -1,0 +1,80 @@
+1424
+Joseph Reed
+512 Craddock Ave
+3.0
+1234
+Nathan Easton
+345 Craddock Ave
+3.4
+5133
+George Davis
+678 Wonder World
+4.0
+9987
+Storie Mauriel
+1441 Capstone Ave
+2.1
+5252
+Paula Delgado
+1443 Sessoms Road
+1.2
+1010
+Phillip Maresh
+4444 Lubbock Drive
+3.9
+2345
+Tyler Daigle
+7890 Austin Ave
+4.0
+3223
+Thomas Berry
+1800 Houston Blvd
+3.2
+1243
+Emily Atlikhani
+9021 Lamar Road
+3.3
+9988
+Brooke Bodron
+533 Cesar Chavez
+2.5
+3398
+Tyler Rutherford
+655 1st Street
+4.0
+1111
+Larry Fitzgerald
+2453 Phoenix Ave
+2.2
+9087
+Carson Palmer
+444 Red Road
+1.0
+6646
+Travis Scott
+90210 Bev Hills
+2.1
+7898
+Ashley Dutton
+123 Bay Area
+3.2
+2002
+Adam Hays
+812 Pearland Road
+2.2
+1000
+David Reed
+1309 Westheimer
+3.5
+3099
+Lauren Strong
+1010 Hank Ave
+4.0
+9999
+Paul Pogba
+3203 Juventus Street
+1.0
+4651
+Kelly Kazmierczak
+4142 UH Drive
+3.0
