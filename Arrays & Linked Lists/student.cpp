@@ -1,5 +1,4 @@
 // Joseph Reed
-// Assignment 1
 // student.cpp
 // class member function definitions
 

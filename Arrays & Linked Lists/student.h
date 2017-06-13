@@ -1,5 +1,4 @@
 // Joseph Reed
-// Assignment 1
 // student.h
 // class declaration 
 #include <iostream>
